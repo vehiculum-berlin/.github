@@ -1,3 +1,8 @@
+# Steps before submitting a PR.
+
+_You have a descriptive commit message with a short title (first line).
+_You have only one commit (if not, squash them into one commit).
+
 # Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context.
@@ -32,4 +37,4 @@ _Please delete options that are not relevant and this line_
 
 # Any other Comments?
 
-_Remove this section if no furhter comments exist_
+_Remove this section if no further comments exist_
