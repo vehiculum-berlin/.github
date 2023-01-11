@@ -1,7 +1,7 @@
-# Steps before submitting a PR.
+# Steps before submitting a PR
 
--You have a descriptive commit message with a short title (first line).
--You have only one commit (if not, squash them into one commit).
+_You have a descriptive commit message with a short title (first line)_
+_You have only one commit (if not, squash them into one commit)_
 
 # Description
 
