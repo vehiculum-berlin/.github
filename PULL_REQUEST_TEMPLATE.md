@@ -1,8 +1,3 @@
-# Steps before submitting a PR
-
-- [ ] You have a descriptive commit message with a short title (first line)
-- [ ] You have only one commit (if not, squash them into one commit)
-
 # Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context.
