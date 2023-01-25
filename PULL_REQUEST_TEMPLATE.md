@@ -6,8 +6,8 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 _Please delete options that are not relevant and this line_
 
-- Jira Card: www.example.com
-- Review App: www.example.com
+- Jira Card: https://vehiculum.atlassian.net/jira/software/projects/DIN/boards/63?selectedIssue=DIN-489
+- Review App: https://vehiculum-fe-feature-di-l7exvj.vehiculum.de/
 
 # Type of Change
 
